@@ -11,7 +11,7 @@
   <li>👋 Hi, I’m @Victormanuel-12</li>
   <li>❤️ Me encanta crear sitios web y programar en Javascript.</li>
   <li>🌱 Actualmente estoy aprendiendo desarrollo web, desarrollo para Android, .Net, Java y JS.</li>
-  <li>💼 Soy desarrollador back-end en Crediometer..</li>
+  <li>💼 Soy desarrollador back-end .</li>
 </ul>
 
 #### A little more about me
